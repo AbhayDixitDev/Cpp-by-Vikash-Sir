@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 float supply(float demand){
-	float rate=80;
+	float rate=106.7;
 	return rate*demand;
 }
 
